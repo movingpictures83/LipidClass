@@ -1,0 +1,2 @@
+Prefix plugins/LipidClass/example/
+Plugin LipidClass inputfile parameters.lipidclass.txt outputfile lipidclass.rds
